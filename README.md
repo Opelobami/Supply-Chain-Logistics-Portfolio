@@ -6,6 +6,14 @@ Each project showcases the use of **Excel Power Query, Power Pivot, Pivot Tables
 
 ---
 
+## 💼 About This Portfolio  
+This portfolio serves as a **showcase of practical analytics projects built entirely in Excel**, reflecting my ability to:  
+- Structure raw datasets into meaningful business insights  
+- Develop interactive dashboards and reports  
+- Support decision-making through data-driven storytelling  
+
+---
+
 ## 🧩 Featured Projects  
 
 ### 🏦 Metro Bank Analysis  
@@ -17,11 +25,12 @@ Each project showcases the use of **Excel Power Query, Power Pivot, Pivot Tables
 
 ---
 
-## 💼 About This Portfolio  
-This portfolio serves as a **showcase of practical analytics projects built entirely in Excel**, reflecting my ability to:  
-- Structure raw datasets into meaningful business insights  
-- Develop interactive dashboards and reports  
-- Support decision-making through data-driven storytelling  
+### ⚽ Premier League 2024/2025 Season Analysis
+A comprehensive data analytics project examining the Premier League 2024/2025 season through Excel-based analysis and visualization. This project dissects **player statistics, salary structures, and team performances** to uncover data-driven insights that define the league’s competitive landscape it is known for.
+
+- **Tools:** Excel, Power Query, Power Pivot, Charts, Dashboards  
+- **Preview:** [Dashboard on Google Drive →] (https://docs.google.com/spreadsheets/d/1GYjLaaiUlCuOCVcnkCRJo-_CUWw4cRNO/edit?usp=sharing&ouid=112288732127302670660&rtpof=true&sd=true)  
+- **Repository:** [View Project →] (https://github.com/Opelobami/Premier-League-2024-2025)
 
 ---
 
