@@ -41,15 +41,6 @@ This Power BI dashboard uncovers insights into shipment flow, delay patterns, an
 
 ---
 
-### 🏦 Metro Bank Analysis  
-**Exploratory analysis of customer behavior, account activity, transactions, branch performance, complaints and risk intelligence.** This project uncovers customer trends, highlights profitability by branch, and analyzes complaint patterns to support better decision-making and customer retention.  
-
-- **Tools:** Excel, Power Query, Power Pivot, Charts, Dashboards  
-- **Preview:** [Dashboard on Google Drive →](https://drive.google.com/file/d/10fwCZhNc0X_CaiMkOLef-wkvn3ihicgA/view?usp=drive_link)  
-- **Repository:** [View Project →](https://github.com/Opelobami/Metro-Bank-Analysis)
-
----
-
 ### ⚽ Premier League 2024/2025 Season Analysis
 A comprehensive data analytics project examining the Premier League 2024/2025 season through Excel-based analysis and visualization. This project dissects **player statistics, salary structures, and team performances** to uncover data-driven insights that define the league’s competitive landscape it is known for.
 
