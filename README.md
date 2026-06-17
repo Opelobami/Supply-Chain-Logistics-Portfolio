@@ -59,14 +59,6 @@ A comprehensive data analytics project examining the Premier League 2024/2025 se
 
 ---
 
-### Triple T Sales Analysis
-An Excel sales analytics solution for a multi-location retail chain identifying **top and bottom performing products, category revenue contribution, regional sales gaps, and customer purchase patterns** to support smarter inventory and commercial decisions.
-
-- **Tools:** Excel, Power Query, Power Pivot, Charts, Dashboards  
-- **Preview:** [Dashboard on Google Drive →](https://docs.google.com/spreadsheets/d/1C7b7F-p1C5zJqhZ2h22QJ7NPq8rH13Ub/edit?usp=drive_link&ouid=112288732127302670660&rtpof=true&sd=true)  
-- **Repository:** [View Project →](https://github.com/Opelobami/Triple-T-Sales-Analysis)
-
-
 ## 📬 Contact  
 If you'd like to collaborate, discuss analytics, or learn more:  
 - **Name:** Opeyemi Ayodeji  
