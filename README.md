@@ -1,20 +1,45 @@
-# 📊 Excel Analytics Portfolio  
+# Supply Chain & Logistics Portfolio  
 
-A curated collection of **Excel-based data analytics projects** demonstrating skills in data cleaning, modeling, visualization, and business insight generation.  
+A curated collection of **Supply Chain & Logistics Projects** demonstrating skills in data cleaning, modeling, visualization, and business insight generation.  
 
-Each project showcases the use of **Excel Power Query, Power Pivot, Pivot Tables, Charts, and Interactive Dashboards** to transform raw data into actionable insights that drive business decisions.  
+Each project showcases end-to-end analysis of supply chain and logistics operations; covering inventory tracking, shipment performance, terminal efficiency, and demand patterns to surface insights that drive better operational and business decisions 
 
 ---
 
 ## 💼 About This Portfolio  
-This portfolio serves as a **showcase of practical analytics projects built entirely in Excel**, reflecting my ability to:  
-- Structure raw datasets into meaningful business insights  
-- Develop interactive dashboards and reports  
-- Support decision-making through data-driven storytelling  
+This portfolio serves as a showcase of practical supply chain and logistics analytics projects, reflecting my ability to:
+
+- Structure raw operational data into meaningful business insights
+- Develop interactive dashboards and reports that track performance across the supply chain
+- Support decision-making through data-driven storytelling
 
 ---
 
-## 🧩 Featured Projects  
+## 🧩 Featured Projects
+
+### 🚚 Smart Logistics Analysis  
+**An in-depth business intelligence solution analyzing delivery efficiency, route optimization, and operational performance.**  
+
+This Power BI dashboard uncovers insights into shipment flow, delay patterns, and revenue forecasting to:  
+- Enhance **delivery reliability and customer satisfaction**  
+- Streamline **operational efficiency**  
+- Support **strategic and logistics planning** through predictive insights  
+
+- **Tools:** Power BI | Power Query | DAX | Data Modeling | Interactive Dashboards  
+- **Preview:** [View Dashboard on Power BI Service →](https://app.powerbi.com/view?r=eyJrIjoiMzM0OWEyNDctYWJjYy00NWZjLTg0MmMtMTA2OWRhZmIxYjZjIiwidCI6ImRkYjk1YzMwLWU3OWUtNDdiNy05YTVmLWE0MmNkZDljOTk5ZCJ9)  
+- **Repository:** [Explore Project →](https://github.com/Opelobami/Smart-Logistics-Analysis)
+
+---
+
+### International Maritime Logistics Analysis
+
+**Power BI analytics solution for global maritime terminal operations, diagnosing infrastructure bottlenecks, measuring the Suez Canal disruption's operational footprint, and surfacing the efficiency anomalies standing between current performance and a data-driven path to smarter terminal allocation**
+
+- **Tools:** Power Query, PowerBI, Google Drive.
+- **Documentation** [View Pbixfile, dataset, brief and pdf image →](https://drive.google.com/drive/folders/1CWMbq_VHrZrbCbi84xGwfd3wk5qfgVOB?usp=drive_link)
+- **Repository:** [View Project →](https://github.com/Opelobami/International-Maritime-Logistics-Analysis)
+
+---
 
 ### 🏦 Metro Bank Analysis  
 **Exploratory analysis of customer behavior, account activity, transactions, branch performance, complaints and risk intelligence.** This project uncovers customer trends, highlights profitability by branch, and analyzes complaint patterns to support better decision-making and customer retention.  
