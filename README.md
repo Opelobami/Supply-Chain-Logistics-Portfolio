@@ -1,8 +1,8 @@
 # Supply Chain & Logistics Portfolio  
 
-A curated collection of **Supply Chain & Logistics Projects** demonstrating skills in data cleaning, modeling, visualization, and business insight generation.  
+A curated collection of Supply Chain & Logistics Projects demonstrating skills in data cleaning, modeling, visualization, and business insight generation.
 
-Each project showcases end-to-end analysis of supply chain and logistics operations; covering inventory tracking, shipment performance, terminal efficiency, and demand patterns to surface insights that drive better operational and business decisions 
+Behind every shipment, terminal, and warehouse is a decision waiting to be made smarter. These projects dig into the operational data that logistics teams generate every day; inventory levels, movement times, capacity utilization, and turn it into a case for where to act first 
 
 ---
 
